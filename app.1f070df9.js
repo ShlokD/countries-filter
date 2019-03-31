@@ -9,4 +9,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./filter.js":"U6qQ","../utils/index.js":"jWsf","../data.js":"paDP"}],"A2T1":[function(require,module,exports) {
 "use strict";var e=r(require("./classes/renderer.js"));function r(e){return e&&e.__esModule?e:{default:e}}window.addEventListener("load",function(){(new e.default).render()});
 },{"./classes/renderer.js":"qu6j"}]},{},["A2T1"], null)
-//# sourceMappingURL=/app.1f070df9.js.map
+//# sourceMappingURL=https://shlokd.github.io/countries-filter/app.1f070df9.js.map
