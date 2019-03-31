@@ -4,7 +4,8 @@
   "description": "Simple app to show and filter country names",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
