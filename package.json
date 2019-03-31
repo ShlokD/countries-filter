@@ -1,0 +1,18 @@
+{
+  "name": "countries-filter",
+  "version": "1.0.0",
+  "description": "Simple app to show and filter country names",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.2",
+    "babel-jest": "^24.5.0",
+    "babel-polyfill": "^6.26.0",
+    "cssnano": "^4.1.10"
+  }
+}
