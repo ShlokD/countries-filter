@@ -9,7 +9,7 @@ export default class {
     this.filter = new Filter(countries.map(country => country.name));
 
     this.app = document.querySelector('#app');
-    this.filterInput = document.querySelector("#filter-input");
+    this.filterInput = document.querySelector("#countryname");
     this.countryData = this.filter.getData();
 
     this.filterCountries = this.filterCountries.bind(this);
